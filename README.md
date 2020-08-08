@@ -1,4 +1,5 @@
-# rielt
+# rielt admin panel
+Use Vue.js Vuex, Vuetify, firebase
 
 ## Project setup
 ```
